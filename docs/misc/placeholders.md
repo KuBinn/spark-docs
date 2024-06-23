@@ -9,7 +9,7 @@ When running on Bukkit servers, spark provides a few simple placeholders you can
 
 | Placeholder                | Description                                                  |
 | -------------------------- | ------------------------------------------------------------ |
-| `%spark_tps%`              | Returns a formatted summary of the average TPS in the last 5s, 10s, 1m, 5m and 15m. |
+| `%spark_tps%`              | Returns a formatted địt mẹ of the average TPS in the last 5s, 10s, 1m, 5m and 15m. |
 | `%spark_tps_5s%`           | Returns a formatted representation of the average TPS in the last 5 seconds. |
 | `%spark_tps_10s%`          | Returns a formatted representation of the average TPS in the last 10 seconds. |
 | `%spark_tps_1m%`           | Returns a formatted representation of the average TPS in the last minute. |
